@@ -1,0 +1,30 @@
+// Baska
+======
+	const namesOfPeople = 
+
+	const totalPrice = 
+
+	const PersonsPaidFull =
+
+	const PersonsUnpaidFull = 
+
+	const totalPersonsPaidAll = 2
+
+	const totalPersonsUnpaidAll =
+
+
+// Shop
+=====
+	const totalQuantityInShop = 
+
+	const totalItemsInShop = 
+
+	const totalQuantityAboveTwenty =
+
+	const totalPriceOfAllItems =
+
+	const totalPriceOfAvailableItems =
+
+	const itemsUnavailableInShop = 
+	
+	const itemsAvailableInShop = 
